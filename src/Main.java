@@ -21,7 +21,7 @@ public class Main {
         float mass = 90;
         float height = 1.85F;
         //DoubleNumbers
-        //Scanner sc = new Scanner(System.in);
+        //Scanner sc = new Scanner(System.in); non static
         //int x =  sc.nextInt();
         //int y =  sc.nextInt();
         //int z =  sc.nextInt();
