@@ -53,7 +53,7 @@ public class Main {
         //from1to9oddFactorials
         System.out.println(oodFactorials.factorialsumm());
         //Discount
-        float sum = 5001;
+        float sum = 3000;
         System.out.println(Discount.discountCalc(sum));
     }
 }
