@@ -23,3 +23,7 @@ hs_err_pid*
 
 Intellij IDEA Files
 *.idea
+.idea/workspace.xml
+*.xml
+*.xml
+*.xml
